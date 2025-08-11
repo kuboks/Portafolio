@@ -14,6 +14,7 @@ export const HomeLayout = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800">
+        <h1 className="sr-only">Home Page</h1>
         <Navigation activeSection={activeSection} onSectionClick={scrollToSection} />
 
         <HeroSection onSectionClick={scrollToSection} />
