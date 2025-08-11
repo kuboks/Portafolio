@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "company": "Grupo Financiero Inbursa",
+    "position": "Analista de sistemas",
+    "period": "septirembre 2024 - noviembre 2024",
+    "description": "Atencion de tickets de soporte, desarrollo de funcionalidades, participacion en reuniones de seguimiento y revision de avance",
+    "achievements": [
+      "Participación en sprint planning, daily stand-ups, revisión de tareas semanal y revisión de avance.",
+      "Atención a tickets en Jira",
+      "Evaluación de tickets en función de la viabilidad técnica y necesidades del usuario",
+      "Desarrollo de las funcionalidades.",
+      "Integración de microservicios",
+      "Elaboración de documentación técnica"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Metal Industria Lora",
+    "position": "Desarrollador",
+    "period": "junio 2023 - diciembre 2023",
+    "description": "Digitalización de procesos de la empresa, desde la identificación de necesidades hasta el desarrollo e implementacion de interfaces digitales",
+    "achievements": [
+      "Identificación de necesidades, especificaciones y alcance para el desarrollo",
+      "Análisis, estructuración y propuesta de la arquitectura de datos",
+      "Creación de la base de datos y definición de tablas según los requerimientos del sistema",
+      "Desarrollo de interfaces digitales basadas en formatos físicos asegurando fidelidad visual y funcionalidad interactiva",
+      "Participación en la mejora visual y funcional de interfaces, en coordinación con requerimientos del sistema",
+      "Colaboración en la definición de los flujos de navegación y experiencia de usuario",
+      "Implementación de la lógica y funcionalidades",
+      "Elaboración del manual de instalación y manual de usuario"
+    ]
+  }
+]
+
+

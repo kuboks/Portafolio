@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "Rediseño completo de plataforma de comercio electrónico con enfoque en conversión y UX.",
+    "image": "/modern-ecommerce-interface.png",
+    "tags": ["UX Research", "Figma", "React", "Next.js"],
+    "rating": 4.9,
+    "demoUrl": "https://demo-ecommerce.com",
+    "githubUrl": "https://github.com/usuario/ecommerce-project"
+  },
+  {
+    "id": 2,
+    "title": "Banking App",
+    "description": "Aplicación móvil para banca digital con sistema de design system completo.",
+    "image": "/mobile-banking-app.png",
+    "tags": ["Mobile Design", "Design System", "React Native"],
+    "rating": 4.8,
+    "demoUrl": "https://demo-banking.com",
+    "githubUrl": "https://github.com/usuario/banking-app"
+  },
+  {
+    "id": 3,
+    "title": "SaaS Dashboard",
+    "description": "Dashboard para herramienta SaaS con visualización de datos compleja y intuitiva.",
+    "image": "/modern-saas-dashboard.png",
+    "tags": ["Data Visualization", "TypeScript", "D3.js"],
+    "rating": 4.9,
+    "demoUrl": "https://demo-saas.com",
+    "githubUrl": "https://github.com/usuario/saas-dashboard"
+  }
+]

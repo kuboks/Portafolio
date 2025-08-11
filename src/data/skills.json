@@ -1,0 +1,20 @@
+{
+  "design": {
+    "title": "Diseño UX/UI",
+    "icon": "Palette",
+    "gradient": "from-purple-500 to-pink-500",
+    "skills": ["Figma", "Adobe XD", "Sketch", "Principle", "InVision", "Miro"]
+  },
+  "frontend": {
+    "title": "Frontend",
+    "icon": "Code",
+    "gradient": "from-blue-500 to-cyan-500",
+    "skills": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "GSAP"]
+  },
+  "methodologies": {
+    "title": "Metodologías",
+    "icon": "Smartphone",
+    "gradient": "from-green-500 to-emerald-500",
+    "skills": ["Design Thinking", "Agile/Scrum", "User Research", "A/B Testing", "Wireframing", "Prototyping"]
+  }
+}
